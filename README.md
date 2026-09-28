@@ -10,7 +10,7 @@
 > A fully automated, schedule-driven LinkedIn content engine featuring a dual Human-in-the-Loop (HITL) approval system via Telegram. It autonomously generates role-specific posts and contextual AI images, publishing them only after explicit human consent.
 
 <div align="center">
-  <img src="../images/linkedin-automation.png" alt="LinkedIn Automation Architecture" width="100%">
+  <img src="../linkedin-automation.png" alt="LinkedIn Automation Architecture" width="100%">
   <br>
   <i>n8n Architecture: Dual HITL loops, AI Text/Image generation, and State Management</i>
 </div>
